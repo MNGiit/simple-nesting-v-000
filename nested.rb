@@ -124,4 +124,4 @@ def adding_to_dennis
 
 end
 
-hopper[:grace_hopper][:languages]
+puts hopper[:grace_hopper]
