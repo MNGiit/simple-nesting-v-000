@@ -124,4 +124,4 @@ def adding_to_dennis
 
 end
 
-puts hopper[0]
+puts hopper[0][0]
