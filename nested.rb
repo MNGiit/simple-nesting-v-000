@@ -124,4 +124,4 @@ def adding_to_dennis
 
 end
 
-puts hopper[0][:known_for]
+puts hopper[:grace_hopper][:known_for]
