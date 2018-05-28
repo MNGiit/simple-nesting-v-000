@@ -123,5 +123,3 @@ def adding_to_dennis
      }
 
 end
-
-puts hopper[:grace_hopper][:known_for]
